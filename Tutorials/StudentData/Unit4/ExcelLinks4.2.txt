@@ -1,0 +1,12 @@
+4.2.2
+https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Tutorials/StudentData/Unit4/4.2.2/social_media_likes_forecast_errors.xlsx
+https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Tutorials/StudentData/Unit4/4.2.2/stock_prices_forecast_errors.xlsx
+
+4.2.3
+https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Tutorials/StudentData/Unit4/4.2.3/TechInsights_website_traffic.xlsx
+https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Tutorials/StudentData/Unit4/4.2.3/trendybox_sales.xlsx
+
+4.2.4
+https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Tutorials/StudentData/Unit4/4.2.4/TechInsights_website_traffic.xlsx
+https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Tutorials/StudentData/Unit4/4.2.4/trendybox_sales.xlsx
+
