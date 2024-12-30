@@ -43,3 +43,6 @@ https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Uni
 https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.1.6/policePuffs.xlsx 
 https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.1.6/hhh_data.xlsx
 
+4.2.2
+https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.2.2/tempestRobotics.xlsx
+https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.2.2/sparkleEarth.xlsx
