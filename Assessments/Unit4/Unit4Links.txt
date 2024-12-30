@@ -46,3 +46,6 @@ https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Uni
 4.2.2
 https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.2.2/tempestRobotics.xlsx
 https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.2.2/sparkleEarth.xlsx
+https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.2.2/fans_data.xlsx 
+https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.2.2/greenscapes_forecasting.xlsx
+https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.2.2/Rusty_Recovery.xlsx
