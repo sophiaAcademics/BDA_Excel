@@ -2,7 +2,7 @@
 
 4.1.2
 https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.1.2/delivery_satisfaction.xlsx
-https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit 4/4.1.2/Chargers_Emails.xlsx
+https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.1.2/Chargers_Emails.xlsx
 https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.1.2/advertising_budget.xlsx
 https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.1.2/social_sustainablity.xlsx
 https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.1.2/AdvertiseUs.xlsx
@@ -55,3 +55,8 @@ https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Uni
 https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.2.3/NateNibbles.xlsx
 https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.2.3/BettBBlankets.xlsx
 https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.2.3/EpoxyVets.xlsx
+
+4.2.4
+https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.2.4/RandyRenovations.xlsx
+https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.2.4/ChrisCare.xlsx
+https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.2.4/InsulatedInsulin.xlsx
