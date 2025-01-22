@@ -73,3 +73,6 @@ https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Uni
 https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.3.3/deliveryCompany.xlsx
 https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.3.3/Piano_Tuning_Company_Data.xlsx
 https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.3.3/Tea_Company_Data.xlsx
+
+4.4.2
+https://raw.githubusercontent.com/sophiaAcademics/BDA_Excel/main/Assessments/Unit4/4.4.2/slickSlides.xlsx
